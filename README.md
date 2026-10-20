@@ -201,3 +201,10 @@ Ezequiel Molinari
 ---
 
 ⭐ Si te gustó este proyecto, dale una estrella en GitHub!
+
+---
+
+## 👤 Autor / Author
+
+**Ezequiel Molinari** — Full Stack Developer · AI & Automation  
+📫 [molinariezequiel2@gmail.com](mailto:molinariezequiel2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ezmolinari12/) · [GitHub](https://github.com/dedaFSdeveloper) · [libreriacrayon.com.ar](https://libreriacrayon.com.ar)
